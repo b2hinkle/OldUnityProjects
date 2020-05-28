@@ -1,0 +1,12 @@
+hipfirerecoil doesn't play right in the animator
+
+in Waves.cs, the first enemy is spawned only after the interval time, not right away.
+
+Peeker seams to move toward the middle of the map for somereason, instead of following the player
+	some reason it still gives you gameover if you aren't even there.
+
+Headbobbing is really fast somereason when game transfered to christians computer
+
+When peeker spawns its body spazzes out for a split sec
+
+Fix Shrek's navmeshagent (with going through the pillar)
